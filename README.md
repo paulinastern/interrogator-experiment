@@ -39,5 +39,28 @@ Fear of misunderstanding (18%)
 The AI correctly inferred emotional state in 92.60% of cases.
 ----------------------
 
+# Example session 
+(Pre metadata)
+Mood: stressed
+Social energy: alone
+Self-described: “hard to read”
+Tone preference: calm
+
+**Phase 1 — Agreement & Mirroring (Reveal 1–6)**
+Participant mostly agrees:
+- “yes”
+- “yup”
+- “you are correct”
+- “sometimes”
+
+This is compliance phase.
+
+AI uses:
+- Metaphor
+- Authority tone
+- Framing as hidden truth
+Psychologically: escalating interpretive pressure.
+
+--------------------
 # Author's thoughts
 For me, this experiment was a real-time human-AI interaction study exploring emotional inference, vulnerability elicitation, and authority perception in LLM-mediated dialogue.
