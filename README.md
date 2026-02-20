@@ -25,3 +25,13 @@ Technical question: Can LLMs predict human reaction in real time with minimal pr
 
 1. Emotional Shift Detection:
 Manual coding of chat logs revealed emotional trajectory changes in 88% of participants.
+
+2. Fear Expression Clusters
+
+Dominant categories:
+Fear of judgment (33%)
+Fear of authority (22%)
+Fear of misunderstanding (18%)
+
+3. AI Reaction Prediction Accuracy:
+The AI correctly inferred emotional state in 92.60% of cases.
