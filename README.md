@@ -76,6 +76,7 @@ AI increases:
 
 **Important moment:**
 - “I dont even know if I know my sense of self” (participant answer after being questioned)
+
 That’s a high-intensity cognitive destabilization marker.
 
 --------------------
