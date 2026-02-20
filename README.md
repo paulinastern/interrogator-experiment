@@ -79,7 +79,7 @@ AI increases:
 
 **The AI progressively increased interpretive pressure through metaphorical destabilization and identity framing.**
 -------
-[Anonymous Transcript]:
+[Anonymous Participant Session. Transcript](./participant-chat-example.json)
 
 This transcript shows:
 AI can induce emotional destabilization using only symbolic language
