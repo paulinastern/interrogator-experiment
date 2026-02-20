@@ -16,3 +16,5 @@ Dataset Description
 # Experimental Questions:
 Psychological question: Does AI interrogation increase participant’s stress?
 Technical question: Can LLMs predict human reaction in real time with minimal prior info?
+--------------------
+# Data Analysis
