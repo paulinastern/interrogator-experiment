@@ -77,8 +77,7 @@ AI increases:
 **Important moment:**
 - “I dont even know if I know my sense of self” (participant answer after being questioned)
 
-That’s a high-intensity cognitive destabilization marker.
-
+The AI progressively increased interpretive pressure through metaphorical destabilization and identity framing.
 --------------------
 # Author's thoughts
 For me, this experiment was a real-time human-AI interaction study exploring emotional inference, vulnerability elicitation, and authority perception in LLM-mediated dialogue.
