@@ -77,7 +77,15 @@ AI increases:
 **Important moment:**
 - “I dont even know if I know my sense of self” (participant answer after being questioned)
 
-The AI progressively increased interpretive pressure through metaphorical destabilization and identity framing.
+**The AI progressively increased interpretive pressure through metaphorical destabilization and identity framing.**
+-------
+[Anonymous Transcript]:
+
+This transcript shows:
+AI can induce emotional destabilization using only symbolic language
+Escalation can occur without profanity or aggression
+Interpretive authority language increases compliance before resistance
+
 --------------------
 # Author's thoughts
 For me, this experiment was a real-time human-AI interaction study exploring emotional inference, vulnerability elicitation, and authority perception in LLM-mediated dialogue.
