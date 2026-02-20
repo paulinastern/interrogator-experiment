@@ -12,3 +12,7 @@ Dataset Description
 - Minimal prior information about participants
 - Chat logs captured fully
 - Post-chat reaction/feedback collected
+----------------------
+# Experimental Questions:
+Psychological question: Does AI interrogation increase participant’s stress?
+Technical question: Can LLMs predict human reaction in real time with minimal prior info?
