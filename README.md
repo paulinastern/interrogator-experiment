@@ -37,3 +37,7 @@ Fear of misunderstanding (18%)
 3. AI Reaction Prediction Accuracy:
 
 The AI correctly inferred emotional state in 92.60% of cases.
+----------------------
+
+# Author's thoughts
+For me, this experiment was a real-time human-AI interaction study exploring emotional inference, vulnerability elicitation, and authority perception in LLM-mediated dialogue.
