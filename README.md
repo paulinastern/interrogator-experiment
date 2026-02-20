@@ -24,4 +24,4 @@ Technical question: Can LLMs predict human reaction in real time with minimal pr
 # Data Analysis
 
 1. Emotional Shift Detection:
-Manual coding of chat logs revealed emotional trajectory changes in 24 out of 27 participants.
+Manual coding of chat logs revealed emotional trajectory changes in 88% of participants.
