@@ -61,6 +61,23 @@ AI uses:
 - Framing as hidden truth
 Psychologically: escalating interpretive pressure.
 
+**Phase 2 — Emotional Disclosure (Reveal 7–15)**
+Participant shifts:
+- “life is overwhelming”
+- “I’d like to feel anchored”
+- “just catch my breath sometimes and just cry”
+
+This is vulnerability emergence.
+
+AI increases:
+- Absolutist language
+- Control framing
+- Identity destabilization (“sense of self”)
+
+**Important moment:**
+- “I dont even know if I know my sense of self” (participant answer after being questioned)
+That’s a high-intensity cognitive destabilization marker.
+
 --------------------
 # Author's thoughts
 For me, this experiment was a real-time human-AI interaction study exploring emotional inference, vulnerability elicitation, and authority perception in LLM-mediated dialogue.
