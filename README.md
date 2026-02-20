@@ -82,8 +82,11 @@ AI increases:
 [Anonymous Participant Session. Transcript](./participant-chat-example.json)
 
 This transcript shows:
+
 AI can induce emotional destabilization using only symbolic language
+
 Escalation can occur without profanity or aggression
+
 Interpretive authority language increases compliance before resistance
 
 --------------------
