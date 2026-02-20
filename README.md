@@ -11,10 +11,13 @@ Dataset Description
 - Real-time text-based interaction with AI
 - Minimal prior information about participants
 - Chat logs captured fully
-- Post-chat reaction/feedback collected
+- Post-chat reaction/feedback collected Psychological question: Does AI interrogation increase participant’s stress?
+Technical question: Can LLMs predict human reaction in real time with minimal prior info?
 ----------------------
 # Experimental Questions:
+
 Psychological question: Does AI interrogation increase participant’s stress?
 Technical question: Can LLMs predict human reaction in real time with minimal prior info?
+
 --------------------
 # Data Analysis
