@@ -60,7 +60,7 @@ AI uses:
 - Authority tone
 - Framing as hidden truth
 Psychologically: escalating interpretive pressure.
-
+-----------
 **Phase 2 — Emotional Disclosure (Reveal 7–15)**
 Participant shifts:
 - “life is overwhelming”
