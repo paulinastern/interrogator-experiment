@@ -1,6 +1,6 @@
 # interrogator-experiment
 AI x Psychology interrogation experiment analyzing how conversational tone and authority influence participant responses.  
-(won 1st place in the Physiological Psychology Lab Course at my college) (Results & Updates coming soon)
+(won 1st place in the Physiological Psychology Lab Course at my college) (Results, code & Updates coming soon)
 
 # Canva Presentation: 
 [The Interrogator Experiment](https://www.canva.com/design/DAG6_FtIjzI/s2SB7UsTl8z24pqsvf7fSQ/edit?utm_content=DAG6_FtIjzI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
